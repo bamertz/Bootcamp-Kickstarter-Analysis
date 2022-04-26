@@ -16,7 +16,7 @@ After constructing the graph “Theater Outcomes Based on Launch Date” one can
 
 ### Analysis of Outcomes Based on Goals
 
-After constructing the graph “Outcomes Based on Goal,” one can determine that the greatest opportunity for a play’s successful fundraising campaign is when its goal is less than $1000 at %76 and 73% at less than $5000. The next best range for a play’s successful fundraising campaign falls between $35,000 and $45,000 at 67%. The least successful range for a play’s fundraising campaign is greater than $45,000.
+After constructing the graph “Outcomes Based on Goal,” one can determine that the greatest opportunity for a play’s successful fundraising campaign is when its goal is less than $1000 at 76% and 73% at less than $5000. The next best range for a play’s successful fundraising campaign falls between $35,000 and $45,000 at 67%. The least successful range for a play’s fundraising campaign is greater than $45,000.
 
 ![Outcomes_vs_Goals](https://user-images.githubusercontent.com/103224405/165211942-eabf25ad-3e70-4ccd-afb9-a61bb57646e5.png)
 
